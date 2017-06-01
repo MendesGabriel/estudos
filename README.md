@@ -2,7 +2,7 @@
 
 ## Um repositório para organizar meus estudos
 
-## Linguagens de Programação
+### Linguagens de Programação
 
 - [ES6 (JavaScript)](https://github.com/aferreira44/aprenda-es6-javascript)
 
